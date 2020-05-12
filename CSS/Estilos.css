@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://66.media.tumblr.com/9b6d3caf851a604d065c7510674b3fd2/tumblr_njay1uxtp01tf8vylo1_500.png);
+    font-family: Cambria;
+    background-size: auto 100vh;
+    height: 100vh;
+     
+  } 
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style:circle;
+    background-color: none;
+    font-size: 30px;
+  }
+  
+  a:link{
+    color: purple;
+    text-decoration: none;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color: whitesmoke;
+  }
